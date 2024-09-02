@@ -1,6 +1,6 @@
 # iOS App Data Collection and Analysis
 
-This project involves collecting and analyzing data on iOS apps, with a specific focus on the mechanisms of the 'You Might Also Like' feature in the App Store. Using the Python library BeautifulSoup, I collected metadata from apps released on July 8th, 2023. The analysis categorizes apps, identifies similarities and differences, and seeks to understand the app recommendations based on dimensions such as genre, language, size, and age rating.
+This repository contains the research project conducted at Zhejiang University, focusing on collecting and analyzing data on iOS apps, with a specific focus on the mechanisms of the 'You Might Also Like' feature in the App Store. Using the Python library BeautifulSoup, I collected metadata from apps released on July 8th, 2023. The analysis categorizes apps, identifies similarities and differences, and seeks to understand the app recommendations based on dimensions such as genre, language, size, and age rating.
 
 ## Background
 
